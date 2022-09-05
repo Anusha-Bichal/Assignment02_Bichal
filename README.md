@@ -26,4 +26,5 @@ This is a table about places to visit
 _ _ _
 # Quotes
 >The greatest glory in living lisses not in never falling, but in rising every time we fall. - *Nelson Mandela*
+
 >Life is what happens when you're busy making other plans. - *John Lennon*
