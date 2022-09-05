@@ -28,3 +28,14 @@ _ _ _
 >The greatest glory in living lisses not in never falling, but in rising every time we fall. - *Nelson Mandela*
 
 >Life is what happens when you're busy making other plans. - *John Lennon*
+_ _ _ 
+# code fencing
+> How to combine two form functions without refreshing page?
+[stack overflow question](https://stackoverflow.com/search?q=how+to+use+click+function+in+jquery&s=81e87475-0872-48dc-8288-6fab42465a43)
+```
+$(".myBox").click(function() {
+  window.location = $(this).find("a").attr("href"); 
+  return false;
+});
+```
+[code snippet](https://css-tricks.com/snippets/jquery/make-entire-div-clickable/)
