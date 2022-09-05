@@ -23,3 +23,7 @@ This is a table about places to visit
 |San Francisco|Golden Gate Bridge|30 mins|
 |Houston|Houston's Museum District|20 mins|
 |Las Vegas|Grand Canyon|1 hour|
+_ _ _
+# Quotes
+>The greatest glory in living lisses not in never falling, but in rising every time we fall. - *Nelson Mandela*
+>Life is what happens when you're busy making other plans. - *John Lennon*
