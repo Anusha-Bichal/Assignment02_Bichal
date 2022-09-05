@@ -14,3 +14,12 @@ Sacramento International Airport
 - california
 - sacramento
 [aboutfile](AboutMe.md)
+_ _ _
+# Table for visiting places in USA 
+This is a table about places to visit
+| Name of a city |Location to visit|Amount of time to spend|
+| --- | --- | --- |
+|new York|Statue of Liberty|2 hours|
+|San Francisco|Golden Gate Bridge|30 mins|
+|Houston|Houston's Museum District|20 mins|
+|Las Vegas|Grand Canyon|1 hour|
